@@ -21,7 +21,7 @@ A responsive BMI Calculator built using HTML, CSS and JavaScript.
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://github.com/bhumikaa0006-create/BMI-Calculator.git)
+[View Live Demo](https://bhumikaa0006-create.github.io/BMI-Calculator/)
 
 ## 👩‍💻 Author
 
